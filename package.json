@@ -1,0 +1,11 @@
+{
+  "name": "yarn-dep-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Joe Fiorini <joe@joefiorini.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.3.2",
+    "webpack": "^1.13.2"
+  }
+}
